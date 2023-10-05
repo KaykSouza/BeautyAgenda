@@ -1,4 +1,7 @@
 
+using AgendaBeleza.Dados;
+using Microsoft.EntityFrameworkCore;
+
 namespace BelezaAPI
 {
     public class Program
@@ -13,6 +16,9 @@ namespace BelezaAPI
 
             const string PoliticaCors = "trocinho";
             var builder = WebApplication.CreateBuilder(args);
+
+            string cnnStr = configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<Contexto>(options => options.UseSqlServer(connStr)); /*, m => m.MigrationsAssembly("AgendaBeleza")*/
 
 
             builder.Services.AddCors(options =>
@@ -41,6 +47,10 @@ namespace BelezaAPI
             }
 
             app.UseHttpsRedirection();
+
+            app.UseRouting(); //opções de rota
+
+            app.UseCors(PoliticaCors);
 
             app.UseAuthorization();
 

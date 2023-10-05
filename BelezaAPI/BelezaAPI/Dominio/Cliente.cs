@@ -9,7 +9,7 @@
         public DateTime? DataNascimento { get; set; }
 
         public bool Bloqueado { get; set; }
-        public double Fiado { get; set; }
+
     }
 
 }
