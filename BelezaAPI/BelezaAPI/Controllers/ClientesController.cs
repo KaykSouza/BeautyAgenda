@@ -17,9 +17,10 @@ namespace BelezaAPI.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post(ClientesController cli)
+        public ActionResult<Cliente> Post(ClientesController cli)
         {
             _contexto.Clientes.Add(cli);
+
             if(_contexto.SaveChanges() > 0)
             {
             return Created($"/Clientes/{cli.Id}", cli);
