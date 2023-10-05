@@ -17,7 +17,7 @@ namespace BelezaAPI.Controllers
         }
 
         [HttpPost]
-        public ActionResult<Cliente> Post(ClientesController cli)
+        public ActionResult<Cliente> Post(Cliente cli)
         {
             _contexto.Clientes.Add(cli);
 

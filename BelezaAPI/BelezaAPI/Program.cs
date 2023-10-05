@@ -1,8 +1,7 @@
-
-using AgendaBeleza.Dados;
+using BelezaAPI.Dados;
 using Microsoft.EntityFrameworkCore;
 
-namespace BelezaAPI
+namespace AgendaBeleza
 {
     public class Program
     {
@@ -15,11 +14,11 @@ namespace BelezaAPI
                 .Build();
 
             const string PoliticaCors = "trocinho";
+
             var builder = WebApplication.CreateBuilder(args);
 
-            string cnnStr = configuration.GetConnectionString("DefaultConnection");
+            string connStr = configuration.GetConnectionString("DefaultConnection");
             builder.Services.AddDbContext<Contexto>(options => options.UseSqlServer(connStr)); /*, m => m.MigrationsAssembly("AgendaBeleza")*/
-
 
             builder.Services.AddCors(options =>
             {
