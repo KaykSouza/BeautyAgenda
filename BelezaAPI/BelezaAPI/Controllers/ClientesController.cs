@@ -21,11 +21,11 @@ namespace BelezaAPI.Controllers
         {
             _contexto.Clientes.Add(cli);
 
-            if(_contexto.SaveChanges() > 0)
+            if (_contexto.SaveChanges() > 0)
             {
-            return Created($"/Clientes/{cli.Id}", cli);
+                return Created($"/Clientes/{cli.Id}", cli);
             }
-            
+
             return BadRequest();
         }
     }
