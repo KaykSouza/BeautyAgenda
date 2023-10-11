@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kayks\\Documents\\Kayk\\Projetos\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj": {}
+    "C:\\Users\\Geral\\Documents\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kayks\\Documents\\Kayk\\Projetos\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj": {
+    "C:\\Users\\Geral\\Documents\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kayks\\Documents\\Kayk\\Projetos\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Geral\\Documents\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj",
         "projectName": "BelezaAPI",
-        "projectPath": "C:\\Users\\kayks\\Documents\\Kayk\\Projetos\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj",
-        "packagesPath": "C:\\Users\\kayks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kayks\\Documents\\Kayk\\Projetos\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\obj\\",
+        "projectPath": "C:\\Users\\Geral\\Documents\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\BelezaAPI.csproj",
+        "packagesPath": "C:\\Users\\Geral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Geral\\Documents\\BeautyAgenda\\BelezaAPI\\BelezaAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kayks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Geral\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\PROGRA~1\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
