@@ -1,0 +1,14 @@
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\bin\Debug\net7.0\FizzBuzz.exe
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\bin\Debug\net7.0\FizzBuzz.runtimeconfig.json
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\Geral\Documents\BeautyAgenda\BelezaAPI\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
